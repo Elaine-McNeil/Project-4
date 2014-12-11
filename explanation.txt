@@ -1,0 +1,41 @@
+For this project, I created 2 PDF manuals for how to use Styles in MS Word 2013. One manual is for beginners and the other manual is for advanced users. The following is a simple explanation of what I did for this project:
+
+MODULAR AUTHORING
+In order to properly single source my content, I had to write modular, as opposed to linear, content. This project was my first time writing modular content (outside of class activities and homework).
+
+CREATED 7 TOPICS
+I created 7 unique topics for this project. Each manual uses 6 topics. The beginners' manual includes "applying styles to text" but excludes "assigning keyboard shortcuts to styles." The advanced users' manual includes "assigning keyboard shortcuts to styles" but excludes "applying styles to text."
+
+USED CONDITION TAGS
+I had to use condition tags to control what topics were included in either output. I created 2 condition tags: Beginner and Advanced.
+
+INCLUDED IMAGES
+I wanted to include screenshots to help the user locate buttons and options, so I had to figure out how to insert images in MadCap Flare.
+
+MODIFIED STYLES
+I modified the h1 style and the img style. For the h1 style, I modified basic font options like font color, but I also modified advanced options like word spacing. For the img style, I modified the indentation so that it would align better with the numbered steps.
+
+CREATED A NEW STYLE
+In order to auto-number my figures, I had to create a new style. So I created a new style named "Figure" and set the auto-numbering format. 
+
+ADDED AN INDEX
+To create an index, I had to manually type each term into the index and then manually assign each relevant topic.
+
+CREATED NEW PAGE LAYOUTS
+I created a new page layout for my body pages that included a header and footer.
+
+
+REFLECTION
+I choose to do 2 manuals using MadCap flare for 3 reasons:
+
+	1) To become familiar with MadCap Flare
+	2) To practice single sourcing content
+	2) To practice modular authoring
+	
+I feel confident that I accomplished my goals with this project. I became familiar enough with MadCap Flare that I feel comfortable saying that I know how to use it. I am by no means an expert or even advanced user, but I definitely know the basics.
+
+I'm also more confident with single sourcing content. After this project, I feel like a I have a much better understanding of how single sourcing written content works and would work within an organization.
+
+This project also gave me a much better understanding of modular authoring. The modular authoring activities in class helped me understand what modular authoring is and why it's useful, but this project taught me how to actually write using modular authoring.
+
+Overall, I'm satisfied with this project. I accomplished my 3 goals, learned a lot of practical information, and created two pieces that I plan to add to my portfolio.
